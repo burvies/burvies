@@ -1,9 +1,9 @@
-<!-- Banner no topo -->
+<!-- Banner superior -->
 <img src="https://i.imgur.com/MGAPOWF.png" alt="Banner Luiz Gustavo Marques" style="width:100%;" />
 
 <h1 align="center">Fala aí! 👋 Eu sou o Luiz Gustavo Marques</h1>
 
-<!-- GIF decorativo alinhado à direita -->
+<!-- GIF decorativo à direita -->
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWXN/giphy.gif" width="250" style="border-radius:20px;" />
 
 <p align="center">
@@ -22,12 +22,12 @@
 ---
 
 ### ⚙️ Tecnologias que estou estudando:
-<div style="display: flex; gap: 10px;">
+<p>
   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white&color=8A2BE2" />
   <img src="https://img.shields.io/badge/Git/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2" />
   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=white&color=8A2BE2" />
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-20232A?style=for-the-badge&logo=mysql&logoColor=white&color=8A2BE2" />
-</div>
+</p>
 
 ---
 
