@@ -4,12 +4,12 @@
 <h1 align="center">Fala aí! 👋 Eu sou o Luiz Gustavo Marques</h1>
 
 <!-- GIF decorativo à direita -->
-<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWXN/giphy.gif" width="250" style="border-radius:20px;" />
+<img align="right" src="https://i.imgur.com/1mINVoI.png" width="250" />
 
 <p align="center">
   💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  🚀 Curioso demais pra ficar parado <br>
   🎯 Usando a tecnologia pra conquistar meus objetivos <br>
+  🚀 Curioso demais pra ficar parado <br>
 </p>
 
 ---
@@ -50,3 +50,4 @@
 <div align="center">
   Feito com 💜 e café ☕
 </div>
+
